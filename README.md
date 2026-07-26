@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="assets/banner.png" width="90%" alt="Banner"/>
 
 <a href="https://github.com/s-choudhary-1593">
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software;Mastering+DSA+%26+C%2B%2B;Shipping+full-stack+projects;Learning+AI+integration&font=Fira+Code&center=true&width=580&height=40&color=c9c9c9&vCenter=true&size=20&pause=1800"/>
@@ -11,7 +10,12 @@
 
 <img src="https://img.shields.io/github/followers/s-choudhary-1593?style=for-the-badge&color=DC143C&labelColor=000000&label=FOLLOWERS"/>
 <img src="https://img.shields.io/github/stars/s-choudhary-1593?style=for-the-badge&color=DC143C&labelColor=000000&label=STARS"/>
-<img src="https://komarev.com/ghpvc/?username=s-choudhary-1593&style=for-the-badge&color=DC143C&labelColor=000000&label=VIEWS"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Status-MCA%20Student-DC143C?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Based%20in-India-DC143C?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -58,6 +62,38 @@ public:
 | 150 Sheet | Shipping | Mastering | Exploring | Contributing |
 
 </div>
+
+<br/>
+
+## 📈 Skill Radar
+
+<div align="center">
+
+<img width="45%" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22C%2B%2B%22%2C%20%22DSA%22%2C%20%22Web%20Dev%22%2C%20%22JavaScript%22%2C%20%22React%22%2C%20%22Node.js%22%2C%20%22AI%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B80%2C%2075%2C%2065%2C%2050%2C%2035%2C%2030%2C%2020%5D%2C%20%22backgroundColor%22%3A%20%22rgba%28220%2C20%2C60%2C0.25%29%22%2C%20%22borderColor%22%3A%20%22%23DC143C%22%2C%20%22pointBackgroundColor%22%3A%20%22%23DC143C%22%2C%20%22pointBorderColor%22%3A%20%22%23fff%22%2C%20%22borderWidth%22%3A%202%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23888888%22%2C%20%22backdropColor%22%3A%20%22transparent%22%2C%20%22stepSize%22%3A%2020%7D%2C%20%22suggestedMin%22%3A%200%2C%20%22suggestedMax%22%3A%20100%7D%7D%7D%7D&backgroundColor=black&width=500&height=400"/>
+
+</div>
+
+<br/>
+
+## ⌚ Coding Activity (WakaTime)
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/dd32b410-d9bc-4f0c-a83c-0593574bb48e.svg?style=for-the-badge&color=DC143C&label_color=000000)](https://wakatime.com/@dd32b410-d9bc-4f0c-a83c-0593574bb48e)
+
+<br/><br/>
+
+<img width="60%" src="https://github-stats-extended.vercel.app/api/wakatime?username=dd32b410-d9bc-4f0c-a83c-0593574bb48e&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9"/>
+
+</div>
+
+<br/>
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [My First Blog: The Beginning of My Developer Journey](https://sam1593.hashnode.dev/my-first-blog-the-beginning-of-my-developer-journey)
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
